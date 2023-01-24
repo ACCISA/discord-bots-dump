@@ -35,7 +35,7 @@ from random import randint
 from discord.ext import commands, tasks
 # import pyodbc (module does not exist)
 
-token = 'OTI4Mzg3NzQ4MDUyNzI5OTQ3.YdYCdw.y1I85Rl5SLWsPapZJAH1J1R-ouA'
+token = ''
 today = date.today()
 week = today.weekday()
 hour = datetime.today().time()
