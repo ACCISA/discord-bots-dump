@@ -955,4 +955,4 @@ async def broker(ctx, name = None):
             embed.add_field(name = 'Date Hired', value = w) # date hired
             await ctx.send(embed = embed)
 
-client.run('OTQ2MDU0NzcwMjU3NDQ5MDIw.YhZIKg.C8mubhxolGO1P0cKUikdoZxoysE')
+client.run('')
