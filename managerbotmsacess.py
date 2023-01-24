@@ -532,4 +532,4 @@ async def marketadd(ctx,amount,price):
     conn.commit()
     await ctx.send(f'You are selling **{amount}** for {price}$ each.')
 
-client.run('ODU4Mzk5MTA1NDkwNzQ3NDI0.YNdkdw.lVZFyqcECU9Atj8QnVikC8gRiBY')
+client.run('')
